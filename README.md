@@ -80,7 +80,3 @@
 <img src="https://raw.githubusercontent.com/khashayaryr/khashayaryr/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<img src="https://raw.githubusercontent.com/khashayaryr/khashayaryr/output/activity-graph.svg" alt="Activity Graph" />
-
-###
