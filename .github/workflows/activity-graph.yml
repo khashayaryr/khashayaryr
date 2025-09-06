@@ -12,7 +12,7 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-      - uses: ashutosh00710/github-readme-activity-graph@v1.0.0
+      - uses: ashutosh00710/github-readme-activity-graph@v1
         with:
           GH_USERNAME: ${{ github.repository_owner }}
           OUTPUT: dist/activity-graph.svg # Save the file in a dist folder
