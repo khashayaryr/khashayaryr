@@ -18,7 +18,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=khashayaryr.khashayaryr" />
 </div>
 
-  ---
 
 ## About me
 
@@ -30,29 +29,21 @@ On the research side, I work on reinforcement learning and transfer learning for
 - MSc in Building Engineering @ Politecnico di Torino (expected 2026)
 - Open to collaboration on agent tooling, RL, or anything at the LLM-meets-real-world intersection
 
----
 
 ## What I build
 
-**AI Agents**
-LLM-based pipelines for autonomous task execution — applicant screening, conversational agents, multi-step reasoning workflows using Claude and Gemini APIs.
-
 **Full-Stack Applications**
 Python/FastAPI backends with PostgreSQL, containerised with Docker, deployed on cloud. Clean APIs, async where it counts.
+
+**AI Agents**
+LLM-based pipelines for autonomous task execution — applicant screening, conversational agents, multi-step reasoning workflows using Claude and Gemini APIs.
 
 **RL & ML Systems**
 SAC, PPO, TD3 for control tasks. Transfer learning for cross-domain generalisation. PyTorch throughout.
 Physics-informed reward shaping when domain knowledge is too useful to ignore.
 
----
 
 ## Tech stack
-
-**AI / LLMs**
-
-![Claude API](https://img.shields.io/badge/Claude_API-191919?style=flat-square&logo=anthropic&logoColor=white)
-![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
-![LangChain](https://img.shields.io/badge/LLM_Pipelines-412991?style=flat-square&logoColor=white)
 
 **Full-Stack & DevOps**
 
@@ -74,6 +65,14 @@ Physics-informed reward shaping when domain knowledge is too useful to ignore.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo" />
   </span>
 </div>
+
+
+**AI / LLMs**
+
+![Claude API](https://img.shields.io/badge/Claude_API-191919?style=flat-square&logo=anthropic&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
+![LangChain](https://img.shields.io/badge/LLM_Pipelines-412991?style=flat-square&logoColor=white)
+
 
 **ML / Research**
 
