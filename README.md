@@ -70,6 +70,9 @@ Physics-informed reward shaping when domain knowledge is too useful to ignore.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="amazonwebservices logo" />
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo" />
   </span>
 </div>
@@ -89,12 +92,9 @@ Physics-informed reward shaping when domain knowledge is too useful to ignore.
 
 Three papers accepted at **ACM Sustainability Week 2026** (Banff, Canada — June 2026):
 
-- **OccuReward** — LLM-guided occupant-centric reward shaping for demographically equitable building control ·
-  [doi:10.1145/3765611.3813759](https://doi.org/10.1145/3765611.3813759)
-- **PIRS** — Physics-informed reward shaping for SAC-based building energy management ·
-  [doi:10.1145/3765611.3815429](https://doi.org/10.1145/3765611.3815429)
-- **Uncertainty-Aware Transfer Learning** — Cross-building energy forecasting at district scale ·
-  [doi:10.1145/3765611.3815363](https://doi.org/10.1145/3765611.3815363)
+- **OccuReward** — LLM-guided occupant-centric reward shaping for demographically equitable building control · [doi:10.1145/3765611.3813759](https://doi.org/10.1145/3765611.3813759)
+- **PIRS** — Physics-informed reward shaping for SAC-based building energy management · [doi:10.1145/3765611.3815429](https://doi.org/10.1145/3765611.3815429)
+- **Uncertainty-Aware Transfer Learning** — Cross-building energy forecasting at district scale · [doi:10.1145/3765611.3815363](https://doi.org/10.1145/3765611.3815363)
 
 ---
 
@@ -104,8 +104,7 @@ Three papers accepted at **ACM Sustainability Week 2026** (Banff, Canada — Jun
   <img src="https://streak-stats.demolab.com?user=khashayaryr&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
----
 
 <img src="https://raw.githubusercontent.com/khashayaryr/khashayaryr/output/snake.svg" alt="Snake animation" />
 
----
+
