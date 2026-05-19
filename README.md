@@ -25,7 +25,7 @@ I build AI agents and full-stack applications — mostly things that automate wo
 
 On the research side, I work on reinforcement learning and transfer learning for real-world control problems. Three papers accepted at ACM 2026.
 
-- Currently building at [ProPilot](https://propilot.ca) — AI-powered tools for property management
+- Currently building at [ProPilot](https://propilot.tech) — AI-powered tools for property management
 - MSc in Building Engineering @ Politecnico di Torino (expected 2026)
 - Open to collaboration on agent tooling, RL, or anything at the LLM-meets-real-world intersection
 
