@@ -25,8 +25,8 @@ I build AI agents and full-stack applications — mostly things that automate wo
 
 On the research side, I work on reinforcement learning and transfer learning for real-world control problems. Three papers accepted at ACM 2026.
 
-- Currently building at [ProPilot](https://propilot.tech) — AI-powered tools for property management
-- MSc in Building Engineering @ Politecnico di Torino (expected 2026)
+
+- MSc in Building Engineering @ Politecnico di Torino
 - Open to collaboration on agent tooling, RL, or anything at the LLM-meets-real-world intersection
 
 
@@ -87,11 +87,8 @@ Physics-informed reward shaping when domain knowledge is too useful to ignore.
 
 ## Publications
 
-Three papers accepted at **ACM Sustainability Week 2026** (Banff, Canada — June 2026):
+Check out my Google Scholar at this [link](https://scholar.google.com/citations?user=s7fuLA0AAAAJ&hl=en)!
 
-- **OccuReward** — LLM-guided occupant-centric reward shaping for demographically equitable building control · [doi:10.1145/3765611.3813759](https://doi.org/10.1145/3765611.3813759) | [View paper](https://camps.aptaracorp.com/ACM_PMS/PMS/ACM/ACMSUSTAINABILITYWEEKCOMPANION26/7/cf234c50-47b6-11f1-b513-16ffd757ba29/OUT/acmsustainabilityweekcompanion26-7.html)
-- **PIRS** — Physics-informed reward shaping for SAC-based building energy management · [doi:10.1145/3765611.3815429](https://doi.org/10.1145/3765611.3815429) | [View paper](https://camps.aptaracorp.com/ACM_PMS/PMS/ACM/ACMSUSTAINABILITYWEEKCOMPANION26/103/f9ecf7bc-47f4-11f1-b513-16ffd757ba29/OUT/acmsustainabilityweekcompanion26-103.html)
-- **Uncertainty-Aware Transfer Learning** — Cross-building energy forecasting at district scale · [doi:10.1145/3765611.3815363](https://doi.org/10.1145/3765611.3815363) | [View paper](https://camps.aptaracorp.com/ACM_PMS/PMS/ACM/ACMSUSTAINABILITYWEEKCOMPANION26/74/6fd153f4-47a7-11f1-b513-16ffd757ba29/OUT/acmsustainabilityweekcompanion26-74.html)
 
 ---
 
